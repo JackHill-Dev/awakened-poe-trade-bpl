@@ -17,11 +17,3 @@
 
 Follow instructions similar to CI [.github/workflows/main.yml](https://github.com/SnosMe/awakened-poe-trade/blob/master/.github/workflows/main.yml)
 
-### Acknowledgments
-
-- [libuiohook](https://github.com/kwhat/libuiohook)
-- [RePoE](https://github.com/brather1ng/RePoE)
-- [poeprices.info](https://www.poeprices.info/)
-- [poe.ninja](https://poe.ninja/)
-
-![](https://i.imgur.com/MATqhv7.png)
